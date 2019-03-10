@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/ardof/Downloads/mysql-connector-java-5.1.47"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/ardof/Downloads/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="src/chart/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="src/chart/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="src/chart/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="src/chart/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
